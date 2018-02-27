@@ -28,6 +28,7 @@ github_username:  noah-de
 # Build settings
 markdown: kramdown
 theme: minima
+show_excerpts: true
 plugins:
   - jekyll-feed
 
