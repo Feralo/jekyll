@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Selenium Problems?"
 date:   2014-10-18 08:42:21 -0800
 categories: selenium testing

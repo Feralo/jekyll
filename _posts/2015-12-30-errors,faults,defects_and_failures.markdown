@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Errors, Faults, Defects and Failures"
 date:   2015-12-30 07:59:21 -0800
 categories: Software Engineering update

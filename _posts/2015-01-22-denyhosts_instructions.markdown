@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Denyhosts instructions (updated)"
 date:   2015-01-22 17:59:21 -0800
 categories: Fedora systems
