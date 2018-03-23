@@ -4,17 +4,16 @@ title:  "Financial Trend Analysis"
 date:   2014-08-11 08:42:21 -0800
 categories: selenium testing
 ---
-Purpose - to visualize our spending habits and identify trends so that we can take action before we find ourselves in trouble!
+Purpose - to visualize spending habits and identify trends. 
 
 Basic process overview
 
-gather data files from various locations
-process data files into one format
-perhaps [date, transaction amount, name]
-graph the unified data
-first pass just graphs all the transactions
-at a later point we could make improvements to the graph
-scatter
+- gather data files from various locations
+- process data files into one format
+- perhaps [date, transaction amount, name]
+- graph the unified data
+- first pass just graphs all the transactions
+- at a later point we could make improvements to the graph
 
 Bash file to parse a bank export:
 
@@ -72,4 +71,4 @@ plt.plot(x,y,'ro')
 plt.show()
 {% endhighlight %}
 
-![My helpful screenshot]({{ "/assets/screenshot.jpg" | absolute_url }})
+![Financial analysis](/assets/screenshot.jpg)
